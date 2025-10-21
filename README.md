@@ -32,7 +32,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 
 
-```
+
 ## Output:
 ### 1-Norm of a Matrix
 
